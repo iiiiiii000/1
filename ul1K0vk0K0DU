@@ -16,4 +16,4 @@ vless://45c0178b-b06e-476d-b265-825979fb27d1@64.188.64.19:443?type=tcp&security=
 vless://3376b180-97b2-471e-ba73-f5677e2b1b9c@mid1.cvs-a.com:8889?type=tcp&security=reality&flow=xtls-rprx-vision&sni=api.cvs-a.com&pbk=vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY&fp=chrome&sid=bb55683efa59799d#🇫🇷 • Франция ❰ 3
 vless://491772a0-12bd-47e2-afe9-5d5be5d47401@45.136.126.32:4443?type=tcp&encryption=none&security=reality&pbk=HYMZ6sGaRCC0PPGCzyWeJgpaNO2vP1IM71gkiJIJ6zQ&fp=qq&sni=google.com&spx=%2F&sid=e313#🇫🇮 • Финляндия ❰ 1
 vless://f43842d5-3a89-465b-aeb0-5aaeb458ba0d@5.180.47.90:5443?type=tcp&encryption=none&security=reality&pbk=GPiIA_-yQHvlM0ZkFDVYkuoj0VeeuL9w0i9GmFmSPxE&fp=qq&sni=google.com&spx=%2F&sid=a334a4#🇫🇮 • Финляндия ❰ 2
-vless://de1b50ad-0940-4313-bcd2-44524b711504@5.180.145.3:443?type=tcp&security=reality&pbk=sr1UHyd5bBop-l-GWzA8O0oX23T6bNXQ2bs2z1NGzQg&fp=chrome&sni=google.com&spx=%2F&flow=xtls-rprx-vision&sid=84#🇫🇮 • Финляндия ❰ 3
+vless://d05f9ffb-a4ba-4f1c-af24-8e4c54609cb4@45.15.129.182:443?type=tcp&encryption=none&security=reality&pbk=Zu-tz_iwfUJh-hIHXDB3E3whvKXYOFNUPTmZYU0ffXo&fp=qq&sni=google.com&spx=%2F&sid=03a24827#🇫🇮 • Финляндия ❰ 3
