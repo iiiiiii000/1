@@ -18,3 +18,4 @@ vless://b504bb7d-8b8c-4a3a-91fe-863ed1fca259@fr2.nfnpx.online:443?type=tcp&secur
 vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.27.63:443?type=xhttp&security=tls&sni=emerge-01.uiu.fyi&fp=chrome&alpn=h2&path=/api/v2/&mode=auto#🇫🇷 • Франция ❰ 2
 vless://e410a4fe-b2e5-42fb-b725-6d7ef496c2ac@91.107.121.251:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇫🇷 • Франция ❰ 3
 vless://52e11d4b-7fad-4d37-952b-8fe7fe7e6056@fi.unit-digital.com:10108?type=grpc&encryption=none&serviceName=api&security=reality&pbk=sIyOGkF1P5vOD51IeEb9aKzPhBAhXrH2w3XCnFKbchI&fp=qq&sni=www.icloud.com&spx=%2F&sid=b828bffc5f#🇫🇮 • Финляндия ❰ 1
+vless://b504bb7d-8b8c-4a3a-91fe-863ed1fca259@fin1.nfnpx.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=fin1.nfnpx.online&pbk=LsesLwq7kI3X91a5oygEXLOyWQwEDSSHltrCppMWCH4&fp=chrome&bx=%2F&sid=39cd9b50f9f3d9d7#🇫🇮 • Финляндия ❰ 2
