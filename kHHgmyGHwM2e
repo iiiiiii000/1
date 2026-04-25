@@ -3,7 +3,8 @@
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Канал --> @viar_vpn
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Бот --> @viarvpn_bot
 vless://52259a5c-e415-4434-8ddf-9579c9a844b6@de.nitroo-tech.ru:443?type=grpc&encryption=none&serviceName=api&security=reality&pbk=SX_aqLgBQrF5DuxlktBophtmPhSA4bzKBg9fp91z3jE&fp=qq&sni=www.apple.com&spx=%2F&sid=52b93989ad2c9a#🇩🇪 • Германия ❰ 1
-vless://6589254d-47ee-4d78-9659-41304c755cce@45.15.129.192:7443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=timeweb.cloud&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&fp=chrome#🇩🇪 • Германия ❰ 2
+vless://aae49537-115f-4c27-ae5d-7008902c5ad3@germany1.telega.now:443?type=xhttp&security=reality&sni=ya.ru&pbk=UqCGEhl4UQgnYGwRhezNQO1vt-e_PBqAS5bPs_4cXD8&fp=chrome&path=%2Fxhttp&mode=packet-up#🇩🇪 • Германия ❰ 2
+vless://6589254d-47ee-4d78-9659-41304c755cce@45.15.129.192:7443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=timeweb.cloud&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&fp=chrome#🇩🇪 • Германия ❰ 3
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.132:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-de-1.firstvideocdn.ru#🇵🇱 • Польша ❰ 1
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.181.39:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cluster-de-2.firstvideocdn.ru&flow=xtls-rprx-vision#🇵🇱 • Польша ❰ 2
 vless://6f528daf-4b4c-419a-9289-4c729397b042@84.21.173.41:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=8YhxIt59OyCh3hGT8mbByjMi040LIsSbLXGCstIqeXU&fp=randomized&sid=aca2849be8b47f1b#🇵🇱 • Польша ❰ 3
