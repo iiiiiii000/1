@@ -2,9 +2,7 @@
 # profile-update-interval: 1
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Канал --> @viar_vpn
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Бот --> @viarvpn_bot
-vless://343e0441-85d1-423e-bf88-c8903085ed21@de-dp-01.com:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&fp=chrome&sid=5be97fb85093a3a9#🇩🇪 • Германия ❰ 1
-vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@de.appav.net:2083?type=grpc&security=reality&sni=barclays.co.uk&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&serviceName=UpdateService&sid=6da16b1335651b38#🇩🇪 • Германия ❰ 2
-vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@de.appav.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=apple.com&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&fp=chrome&sid=00684d2eae2cdd16#🇩🇪 • Германия ❰ 3
+vless://6f528daf-4b4c-419a-9289-4c729397b042@64.188.64.215:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=8YhxIt59OyCh3hGT8mbByjMi040LIsSbLXGCstIqeXU&fp=randomized&sid=aca2849be8b47f1b#🇩🇪 • Германия ❰ 1
 vless://90620657-58a2-441a-a4ce-cdb0503bb9f5@tcppl6.lazeroe.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=tcppl6.lazeroe.com&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&fp=edge&bx=%2Fexampleexample&sid=868419504747f6de#🇵🇱 • Польша ❰ 1
 vless://90620657-58a2-441a-a4ce-cdb0503bb9f5@pl5.lazeroe.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=pl5.lazeroe.com&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&fp=random&bx=%2Fexampleexample&sid=868419504747f6de#🇵🇱 • Польша ❰ 2
 vless://7ec1bbb5-b184-454f-8f46-beff45f1b87e@pl-dp-01.online:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&fp=chrome&sid=50e09046c0c00159#🇵🇱 • Польша ❰ 3
