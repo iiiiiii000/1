@@ -2,8 +2,8 @@
 # profile-update-interval: 1
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Канал --> @viar_vpn
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Бот --> @viarvpn_bot
-vless://808b6691-706f-40d4-a235-bccbf833d021@germany1.telega.now:443?type=xhttp&security=reality&sni=ya.ru&pbk=UqCGEhl4UQgnYGwRhezNQO1vt-e_PBqAS5bPs_4cXD8&fp=chrome&path=%2Fxhttp&mode=packet-up#🇩🇪 • Германия ❰ 1
-vless://808b6691-706f-40d4-a235-bccbf833d021@germany2.telega.now:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=xapi.ozon.ru&pbk=EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4&fp=chrome&bx=%2F&sid=cd764efc#🇩🇪 • Германия ❰ 2
+vless://808b6691-706f-40d4-a235-bccbf833d021@germany2.telega.now:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=xapi.ozon.ru&pbk=EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4&fp=chrome&bx=%2F&sid=cd764efc#🇩🇪 • Германия ❰ 1
+vless://808b6691-706f-40d4-a235-bccbf833d021@germany1.telega.now:443?type=xhttp&security=reality&sni=ya.ru&pbk=UqCGEhl4UQgnYGwRhezNQO1vt-e_PBqAS5bPs_4cXD8&fp=chrome&path=%2Fxhttp&mode=packet-up#🇩🇪 • Германия ❰ 2
 vless://cecfcc9e-64c0-412d-b3fe-a494f2c07865@152.53.150.218:7443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&fp=chrome&sid=d82fb387#🇩🇪 • Германия ❰ 3
 vless://46c930f4-1b4b-4b3a-ad1b-c435f4f75479@94.131.97.15:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=swdist.apple.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&sid=6a4cb4f223f4a6bb#🇵🇱 • Польша ❰ 1
 vless://43eea0d5-871e-4fcd-b54a-f827b62b1640@72.56.252.131:9881?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.io.ozone.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&fp=chrome&bx=%2F#🇵🇱 • Польша ❰ 2
