@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Канал --> @viar_vpn
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Бот --> @viarvpn_bot
-vless://cecfcc9e-64c0-412d-b3fe-a494f2c07865@45.13.226.125:7443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&fp=chrome&sid=d82fb387#🇩🇪 • Германия ❰ 1
+vless://e8aef45a-24d3-4774-83ac-02cc217a2fee@white77.alexanderoff.ru:9006?type=grpc&headerType=none&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=_tBiRkButwPxxa2HHuNufy0Tyr_0SViQZReJT75JVTI&sid=d49d578f280fd83a&serviceName=xyz&packet_mode=gun#🇩🇪 • Германия ❰ 1
 vless://e8aef45a-24d3-4774-83ac-02cc217a2fee@white77.alexanderoff.ru:9006?type=grpc&headerType=none&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=_tBiRkButwPxxa2HHuNufy0Tyr_0SViQZReJT75JVTI&sid=d49d578f280fd83a&serviceName=xyz&packet_mode=gun#🇩🇪 • Германия ❰ 2
 vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@berocd.herumhas.shop:9443?security=tls&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇩🇪 • Германия ❰ 3
 vless://adf1c918-43a1-4f53-a2dc-499c64d33bca@midorinote.online:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rbc.ru&fp=chrome&security=reality&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sid=331a8c3fe668c1ee&packetEncoding=xudp#🇳🇱 • Нидерланды ❰ 1
