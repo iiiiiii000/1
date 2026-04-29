@@ -2,8 +2,8 @@
 # profile-update-interval: 1
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Канал --> @viar_vpn
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Бот --> @viarvpn_bot
-vless://3ff13728-27d0-4673-a4b0-700bc2687bbd@de1.test.tconnect.services:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&pbk=dioB_kXykvJQK_HocR5Z3TnXJNabVhYoRX2TVsfsK0Q&fp=chrome&sid=71e87186710e710e#🇩🇪 • Германия ❰ 1
-vless://3ff13728-27d0-4673-a4b0-700bc2687bbd@de.tconnect.services:8443?type=ws&security=tls&sni=de.tconnect.services&fp=chrome&path=/ws#🇩🇪 • Германия ❰ 2
+vless://3ff13728-27d0-4673-a4b0-700bc2687bbd@de.tconnect.services:8443?type=ws&security=tls&sni=de.tconnect.services&fp=chrome&path=/ws#🇩🇪 • Германия ❰ 1
+vless://070498cb-d24a-4142-afa4-f8f20be6e27d@de.plus-hit.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=de.plus-hit.ru&pbk=ayJjf8TJwT_INFKDDHk9uv3zyoERmbG2gECNX1fwFxo&fp=random&bx=%2F&sid=6a0f1cd94b762e98#🇩🇪 • Германия ❰ 2
 vless://070498cb-d24a-4142-afa4-f8f20be6e27d@de.plus-hit.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=de.plus-hit.ru&pbk=ayJjf8TJwT_INFKDDHk9uv3zyoERmbG2gECNX1fwFxo&fp=random&bx=%2F&sid=6a0f1cd94b762e98#🇩🇪 • Германия ❰ 3
 vless://adf1c918-43a1-4f53-a2dc-499c64d33bca@89.110.65.27:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sid=808e2d36726ee97e#🇳🇱 • Нидерланды ❰ 1
 vless://adf1c918-43a1-4f53-a2dc-499c64d33bca@89.110.75.246:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sid=331a8c3fe668c1ee#🇳🇱 • Нидерланды ❰ 2
@@ -17,6 +17,6 @@ vless://8864721a-2dd7-49be-a6b8-9c09bd511009@5.189.223.87:443?type=tcp&security=
 vless://3ff13728-27d0-4673-a4b0-700bc2687bbd@fin.tconnect.services:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&pbk=5P5lwGRGhGJATZMYduxof-ZR6eb5lzUpsbdDNddT4l4&fp=chrome&sid=71e87186710e710e#🇫🇮 • Финляндия ❰ 1
 vless://3ff13728-27d0-4673-a4b0-700bc2687bbd@fin.tconnect.services:8443?type=ws&security=tls&sni=fin.tconnect.services&fp=chrome&path=/ws#🇫🇮 • Финляндия ❰ 2
 vless://4b3be116-5a12-4a82-9533-ba27ec6a63e7@fi.unit-digital.com:10108?type=grpc&encryption=none&serviceName=api&security=reality&pbk=sIyOGkF1P5vOD51IeEb9aKzPhBAhXrH2w3XCnFKbchI&fp=qq&sni=www.icloud.com&spx=%2F&sid=b828bffc5f#🇫🇮 • Финляндия ❰ 3
-vless://0bf0ab36-63a2-4d63-84b7-68c8cb595e34@fr2.appav.net:2083?type=grpc&security=reality&sni=barclays.co.uk&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&serviceName=UpdateService&sid=6da16b1335651b38#🇫🇷 • Франция ❰ 1
-vless://3ff13728-27d0-4673-a4b0-700bc2687bbd@frorg.tconnect.services:8443?type=grpc&security=reality&sni=frorg.tconnect.services&pbk=gLK-6dHnsoJ6b7NrY_0ra7rs0fhnSz7swmwKvGutF0I&fp=chrome&serviceName=dropbox.com&sid=71e87186710e710e#🇫🇷 • Франция ❰ 2
+vless://3ff13728-27d0-4673-a4b0-700bc2687bbd@frorg.tconnect.services:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&pbk=UU4vBZA0TP2C_0WNExTvBCZ9ItqpyG4qa659rPRIclY&fp=chrome&sid=71e87186710e710e#🇫🇷 • Франция ❰ 1
+vless://0bf0ab36-63a2-4d63-84b7-68c8cb595e34@fr2.appav.net:2083?type=grpc&security=reality&sni=barclays.co.uk&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&serviceName=UpdateService&sid=6da16b1335651b38#🇫🇷 • Франция ❰ 2
 vless://3ff13728-27d0-4673-a4b0-700bc2687bbd@frorg.tconnect.services:8443?type=grpc&security=reality&sni=frorg.tconnect.services&pbk=gLK-6dHnsoJ6b7NrY_0ra7rs0fhnSz7swmwKvGutF0I&fp=chrome&serviceName=dropbox.com&sid=71e87186710e710e#🇫🇷 • Франция ❰ 3
