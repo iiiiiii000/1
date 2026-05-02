@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Канал --> @viar_vpn
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Бот --> @viarvpn_bot
-vless://cd3bfeac-adce-40db-8c5b-0e45aa634989@45.145.43.46:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=ru-2.videoproeditor.com&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#🇩🇪 • Германия ❰ 1
+vless://5733bd25-ba0f-4ed0-8055-f5bef685da94@de1.mehab.me:443?type=tcp&encryption=none&security=tls&fp=firefox&alpn=http%2F1.1&flow=xtls-rprx-vision#🇩🇪 • Германия ❰ 1
 vless://5733bd25-ba0f-4ed0-8055-f5bef685da94@de1.mehab.me:443?type=tcp&encryption=none&security=tls&fp=firefox&alpn=http%2F1.1&flow=xtls-rprx-vision#🇩🇪 • Германия ❰ 2
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@95.140.154.101:2053?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🇩🇪 • Германия ❰ 3
 vless://b11c8d06-96bf-41b3-908d-8663f919e399@nl-in.api.dznn.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&fp=chrome&sid=19aa22f681923dc8#🇳🇱 • Нидерланды ❰ 1
