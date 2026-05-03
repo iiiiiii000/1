@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Канал --> @viar_vpn
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Бот --> @viarvpn_bot
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@germ.keepsecured.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&sni=cdn.kwork.com#🇩🇪 • Германия ❰ 1
+vless://0f51a0ca-aa1c-4eba-a48f-bed1d337c590@de.tconnect.services:8443?type=ws&security=tls&sni=de.tconnect.services&fp=chrome&path=/ws#🇩🇪 • Германия ❰ 1
 vless://0f51a0ca-aa1c-4eba-a48f-bed1d337c590@de.tconnect.services:8443?type=ws&security=tls&sni=de.tconnect.services&fp=chrome&path=/ws#🇩🇪 • Германия ❰ 2
 vless://f6808c62-cfe0-438c-aae6-44fe6ef51e47@89.163.154.212:8082?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 • Германия ❰ 3
 vless://91129a3c-ca6f-4ea7-8961-608ab46dd054@nl.silavpn.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=tradingview.com&pbk=LOgdQF9323m-bfvChZV3CwAaNid3xLhUPSiWjw8Jz1Y&fp=chrome&sid=a1b2c3d4a1b2c3d5#🇳🇱 • Нидерланды ❰ 1
