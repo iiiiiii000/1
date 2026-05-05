@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Канал --> @viar_vpn
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Бот --> @viarvpn_bot
-vless://3d243df5-9cda-4aac-89d5-354de77d79e2@reserve.pilates.rodeo:2053?encryption=none&security=tls&alpn=http%2F1.1%2Ch2&sni=nice.ducks.tel&serviceName=grpc&type=grpc#🇩🇪 • Германия ❰ 1
+vless://f2005eac-a153-4464-bb73-806548cc23c4@germany2.telega.now:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=xapi.ozon.ru&pbk=EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4&fp=chrome&bx=%2F&sid=cb6af6c794#🇩🇪 • Германия ❰ 1
 vless://f2005eac-a153-4464-bb73-806548cc23c4@germany1.telega.now:443?type=xhttp&security=reality&sni=ya.ru&pbk=UqCGEhl4UQgnYGwRhezNQO1vt-e_PBqAS5bPs_4cXD8&fp=chrome&path=%2Fxhttp&mode=packet-up#🇩🇪 • Германия ❰ 2
 vless://3d243df5-9cda-4aac-89d5-354de77d79e2@79.133.42.92:2053?encryption=none&type=grpc&security=tls&mode=gun&serviceName=grpc&sni=nice.ducks.tel#🇩🇪 • Германия ❰ 3
 vless://e0b7e535-ecef-0008-92e6-afc586f66307@nl-dock.monkeyisland.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl-dock.monkeyisland.xyz&pbk=BdWFIMCcGKKA6aPgOdL2IjpGpXI5pkee-oievWXxkio&fp=chrome&sid=352a6b8d4918e283#🇳🇱 • Нидерланды ❰ 1
