@@ -17,6 +17,6 @@ vless://cb685ccc-99fe-444c-b307-ff5638813d09@84.201.137.212:443?flow=xtls-rprx-v
 vless://26524cce-d514-4014-a426-365fb266a14d@104.252.127.63:2053?fp=firefox&host=psp09.data.chinav.eu.org&path=%2Fdanfeng&security=tls&sni=psp09.data.chinav.eu.org&type=ws#🇫🇮 • Финляндия ❰ 1
 vless://26524cce-d514-4014-a426-365fb266a14d@104.252.127.63:2053?fp=firefox&host=psp09.data.chinav.eu.org&path=%2Fdanfeng&security=tls&sni=psp09.data.chinav.eu.org&type=ws#🇫🇮 • Финляндия ❰ 2
 vless://a083c6ee-2d5f-42ea-aa31-9952370f31d6@fin.tconnect.services:8443?type=ws&security=tls&sni=fin.tconnect.services&fp=chrome&path=/ws#🇫🇮 • Финляндия ❰ 3
-vless://f73a9952-73b2-4d33-a880-147cae901f5a@fr2.appav.net:2083?type=grpc&security=reality&sni=barclays.co.uk&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&serviceName=UpdateService&sid=6da16b1335651b38#🇫🇷 • Франция ❰ 1
+vless://67ee098a-65b3-41d2-8b5a-6308284c0dfc@fr2.appav.net:2083?type=grpc&security=reality&sni=barclays.co.uk&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&serviceName=UpdateService&sid=6da16b1335651b38#🇫🇷 • Франция ❰ 1
 vless://28148be2-61a7-4f36-8adb-030cc9f82bd0@62.210.24.143:32202?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc&sid=f57d8f26&sni=www.amazon.com&path=/G3EEoH63#🇫🇷 • Франция ❰ 2
 vless://58bdd869-ff66-4aaa-baae-3997fe3814b3@fr2.appav.net:2083?type=grpc&security=reality&sni=barclays.co.uk&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=qq&serviceName=UpdateService&sid=6da16b1335651b38#🇫🇷 • Франция ❰ 3
