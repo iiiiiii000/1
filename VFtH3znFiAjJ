@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Канал --> @viar_vpn
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Бот --> @viarvpn_bot
-vless://dec9dd57-e9d3-4ba2-832f-d461c5d081b4@fin-2.hotservice.icu:2066?type=tcp&security=reality&flow=xtls-rprx-vision&sni=apple.com&pbk=u4lNvUk5pLZGl0XN-QK4xQgPQBhoJiMkOP2XZoQ99GA&fp=chrome&sid=d18f4e#🇩🇪 • Германия ❰ 1
+vless://b406ff54-96f2-45ce-9179-e4e00bff1cf6@cznode.lumixnet.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cznode.lumixnet.com&fp=chrome&pbk=lTTCzlRNWS05RwMf_bnIdoXPGRQNnuc95Lvc895najg&sid=d56b574bcf0c0d7b&flow=xtls-rprx-vision#🇩🇪 • Германия ❰ 1
 vless://b406ff54-96f2-45ce-9179-e4e00bff1cf6@cznode.lumixnet.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cznode.lumixnet.com&fp=chrome&pbk=lTTCzlRNWS05RwMf_bnIdoXPGRQNnuc95Lvc895najg&sid=d56b574bcf0c0d7b&flow=xtls-rprx-vision#🇩🇪 • Германия ❰ 2
 vless://cdd6e36f-5865-4c75-b722-b451e69d5b37@germany2.telega.now:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=xapi.ozon.ru&pbk=EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4&fp=chrome&bx=%2F&sid=c5dc#🇩🇪 • Германия ❰ 3
 vless://90972d17-6c31-470b-8b23-2a31d989c60d@usa77.freednet.org:443?alpn=h2&fp=chrome&path=%2Fapi%2Fv1%2F&r=67b97d&security=tls&sni=usa77.freednet.org&type=xhttp#🇳🇱 • Нидерланды ❰ 1
