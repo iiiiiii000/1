@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Канал --> @viar_vpn
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Бот --> @viarvpn_bot
-vless://85b5cb2e-2617-4930-b6a4-4aeaf3b7b9aa@de.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision&insecure=0#🇩🇪 • Германия ❰ 1
+vless://3c81c716-4fd5-11f1-8a2c-525400a7149e@104.194.159.207:443?security=reality&encryption=none&pbk=XFv4Qy1Pfx_Wj_oLqIqfVpBiykT2zr35X0mwEOME2Wg&headerType=none&fp=randomized&spx=%2Fs-autos&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.kleinanzeigen.de#🇩🇪 • Германия ❰ 1
 vless://2c82d7ed-1378-4d63-aa34-a9e8b30511bc@game-de.love-list-server.com:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=game-de.great-server-list.co.uk&fp=chrome#🇩🇪 • Германия ❰ 2
 vless://2c82d7ed-1378-4d63-aa34-a9e8b30511bc@de.love-list-server.com:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=de.great-server-list.co.uk&fp=chrome#🇩🇪 • Германия ❰ 3
 vless://b2e44919-b4c3-48e4-a874-523e8618ecd2@nl-tx.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http/1.1#🇳🇱 • Нидерланды ❰ 1
