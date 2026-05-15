@@ -2,9 +2,9 @@
 # profile-update-interval: 1
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Канал --> @viar_vpn
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Бот --> @viarvpn_bot
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8444?type=xhttp&headerType=none&security=reality&encryption=none&sni=google.com&fp=firefox&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&path=%2F#🇩🇪 • Германия ❰ 1
-vless://25f1947f-63a8-4de9-8f3b-b101eed550e7@debora.api.dznn.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=debora.api.dznn.net&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&fp=chrome&sid=0a6ba2716a409da6#🇩🇪 • Германия ❰ 2
-vless://25f1947f-63a8-4de9-8f3b-b101eed550e7@deltaz.api.dznn.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&fp=edge&sid=19aa22f681923dc8#🇩🇪 • Германия ❰ 3
+vless://25f1947f-63a8-4de9-8f3b-b101eed550e7@debora.api.dznn.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=debora.api.dznn.net&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&fp=chrome&sid=0a6ba2716a409da6#🇩🇪 • Германия ❰ 1
+vless://25f1947f-63a8-4de9-8f3b-b101eed550e7@deltaz.api.dznn.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&fp=edge&sid=19aa22f681923dc8#🇩🇪 • Германия ❰ 2
+vless://25f1947f-63a8-4de9-8f3b-b101eed550e7@autobus.api.dznn.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=listwhite.cc&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&fp=chrome&sid=0a6ba2716a409da6#🇩🇪 • Германия ❰ 3
 vless://9a974bf3-027d-4afd-8f5a-19eaa1ffcc5c@45.15.128.233:603?type=grpc&security=reality&sni=www.amd.com&pbk=lWJaKBaMPs0NYHGCbfsrmn64R4juEQEvfmHNnL741Ek&fp=random#🇳🇱 • Нидерланды ❰ 1
 vless://b2e44919-b4c3-48e4-a874-523e8618ecd2@nl-tx.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http/1.1#🇳🇱 • Нидерланды ❰ 2
 vless://3bd48b98-b398-448a-8a63-5771057e0135@194.135.38.120:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=GsKY4XpP6sr905aHvCrj0JEHhgcAD5aEcmbjyLSNjAU&sid=ca5096&sni=cdp.x5.ru&spx=/#🇳🇱 • Нидерланды ❰ 3
