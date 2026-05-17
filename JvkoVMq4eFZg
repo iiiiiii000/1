@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Канал --> @viar_vpn
 vless://f625b52c-4403-4ada-bada-9967ba9949e3@de.bashvpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=www.aviasales.com&fp=chrome&pbk=WNm8A3wxBl27RxrGMqfaO_YQ5y9LxbVa2BbzlnDL6DU&sid=11403cfd7b24137d#• Бот --> @viarvpn_bot
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8444?type=xhttp&security=reality&fp=firefox&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&sni=google.com&path=/#🇩🇪 • Германия ❰ 1
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8444?type=xhttp&headerType=none&security=reality&encryption=none&sni=google.com&fp=firefox&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&path=%2F#🇩🇪 • Германия ❰ 1
 vless://3de8d5ed-5ee7-4317-9a7e-552ea78a6ee0@198.105.115.228:7443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&fp=chrome&sid=be0ce047#🇩🇪 • Германия ❰ 2
 vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8444?type=xhttp&security=reality&fp=firefox&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&sni=google.com&path=/#🇩🇪 • Германия ❰ 3
 vless://b2e44919-b4c3-48e4-a874-523e8618ecd2@nl-tx.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http/1.1#🇳🇱 • Нидерланды ❰ 1
@@ -13,7 +13,7 @@ vless://d21669b6-2d7a-498e-b5d8-c0265073e4fe@95.85.246.8:443?fp=firefox&pbk=VH-4
 vless://c3d082ac-20f4-4000-b946-28e4a3ea4002@pl.hothapp.com:2066?type=tcp&security=reality&flow=xtls-rprx-vision&sni=apple.com&pbk=u4lNvUk5pLZGl0XN-QK4xQgPQBhoJiMkOP2XZoQ99GA&fp=chrome&sid=d18f4e#🇵🇱 • Польша ❰ 3
 vless://75807638-6f19-07d0-ae08-38492ee85c88@ru1.corpmail59.ru:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ru1.corpmail59.ru&fp=chrome&flow=xtls-rprx-vision#🇷🇺 • Россия ❰ 1
 vless://8245dbc5-fab6-4513-b7c2-5b9b0a855fb8@ru.pool-b.vodkacore.pro:44002/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=netcenter-cdn.com&fp=qq&security=reality&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&sid=e1233ae7e56111a7#🇷🇺 • Россия ❰ 2
-vless://8245dbc5-fab6-4513-b7c2-5b9b0a855fb8@ru.pool-b.vodkacore.pro:44002/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=netcenter-cdn.com&fp=qq&security=reality&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&sid=e1233ae7e56111a7#🇷🇺 • Россия ❰ 3
+vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@80.90.188.250:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M&sni=eh.vk.com#🇷🇺 • Россия ❰ 3
 vless://26524cce-d514-4014-a426-365fb266a14d@94.183.235.105:2053?allowInsecure=0&sni=wybfkrp6.gateway-edge.danfeng.cyou&type=ws&host=wybfkrp6.gateway-edge.danfeng.cyou&path=/danfengfp=firefox&security=tls#🇫🇮 • Финляндия ❰ 1
 vless://cc42eee0-1937-4f7e-a8d2-77509f99495b@fi.organic-cdn.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi.convexia.net&pbk=jydkvpm6P7x3p5Ueco8tMR9b3XrbwRSyr445QpWrjTo&fp=chrome&sid=ef4206bc9fae1a#🇫🇮 • Финляндия ❰ 2
 vless://4517f6f2-14af-4863-89fd-1ae09c4b372e@132.243.231.73:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=sEaUAwp3_NW7OYP34CnqjKkLlWkJyQpUR7BCRN8CCx0&fp=firefox&sid=01#🇫🇮 • Финляндия ❰ 3
